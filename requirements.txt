@@ -1,0 +1,16 @@
+clickhouse-driver==0.2.9
+hdbscan==0.8.40
+joblib==1.5.0
+numpy==2.2.6
+packaging==25.0
+pandas==2.2.3
+python-calamine==0.3.2
+python-dateutil==2.9.0.post0
+python-dotenv==1.1.0
+pytz==2025.2
+scikit-learn==1.6.1
+scipy==1.15.3
+six==1.17.0
+threadpoolctl==3.6.0
+tzdata==2025.2
+tzlocal==5.3.1
