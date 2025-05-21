@@ -18,4 +18,6 @@ Dự án này thực hiện luồng ETL để chuẩn bị data cho phân tích 
 - Thông tin chi tiết về sản phẩm
 - Liên kết với bảng Sales thông qua trường SKU
 
+### a
+
 
